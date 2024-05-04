@@ -1,0 +1,10 @@
+jQuery - JavaScript library that simplifies DOM manipulation, event handling, and Ajax interactions.
+Released in 2006 by John Resig.
+
+Rules:-
+1. select html elements
+2. perform jquery function or action on that element.
+
+syntax - $(selectors).action()
+selectors 
+- tag, id, class, universal(*), this - implemented on selected elements
