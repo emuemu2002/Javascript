@@ -1,0 +1,46 @@
+Javascript is a programming language or scripting language that allows dynamic interactions and functionality on websites and web applications.
+
+Some inbuilt functions (Block of Code for reusable purpose) of Javascript
+
+alert(): Displays a dialog box with a message and an OK button.
+console.log(): Outputs a message to the browser console.
+prompt(): Displays a dialog box with a message and an input field.
+parseInt(): Parses a string and returns an integer.
+parseFloat(): Parses a string and returns a floating-point number.
+
+
+Ways to add Javascript in HTML
+Inline Javascript: Within HTML tags, use the onclick (events-action) attribute or <script> tags.
+Internal Javascript: Embedding JavaScript code within <script> tags in the HTML file's <head> or <body> section.
+But it would be recommended to put JS at the end of the body tag.
+External Javascript: Linking an external JavaScript file using the <script src="filename.js"></script> tag in the HTML file.
+
+Variables 
+Containers that store data related to our codes. And that data we can use or change wherever needed in our code.
+
+Ways to Declare Variables in JavaScript
+var: value can be reassigned, variables can be redeclared, and it has function scope.
+let:  value can be reassigned, variables can’t be redeclared, and it has block scope.
+const: value can’t be reassigned, variables can’t be redeclared, and it has block scope.
+
+Rules for writing variables in JavaScript
+1. Variable names must begin with a letter (a-z, A-Z), an underscore (_), or a dollar sign ($). They can also include numbers (0-9), but cannot start with one.
+2. You cannot use JavaScript-reserved keywords as variable names like var, let, const, function, if, else, return, etc.
+3. It's a common convention in JavaScript to use camelCase for variable names.
+4. JavaScript is case-sensitive, so myVar, MyVar, and myvar are all considered different variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
