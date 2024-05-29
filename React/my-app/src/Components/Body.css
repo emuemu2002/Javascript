@@ -1,0 +1,10 @@
+.box2 {
+  border: 2px solid black;
+  height: 60vh;
+  background-image: linear-gradient(skyblue, pink);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 30px;
+}

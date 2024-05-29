@@ -1,0 +1,10 @@
+.box3 {
+  border: 2px solid black;
+  height: 20vh;
+  background-image: linear-gradient(lightgrey, cadetblue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 30px;
+}
