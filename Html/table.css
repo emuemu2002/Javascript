@@ -1,0 +1,12 @@
+table,
+tr,
+td,
+th {
+  border: 2px solid skyblue;
+  border-collapse: collapse;
+  padding: 20px;
+}
+
+#d1 {
+  background-color: skyblue;
+}
