@@ -31,3 +31,17 @@ console.log(c);
 // } else {
 //   alert("Please Enter a valid age");
 // }
+
+// Create a JavaScript program that prompts the user to enter the lengths of three sides of a triangle. Determine whether the triangle is equilateral, isosceles, or scalene based on the lengths  entered. Display the type of triangle to the user.
+
+let day = parseInt(prompt("Enter Day"));
+
+switch (day) {
+  case 0:
+    alert("Monday");
+    break;
+
+  default:
+    alert("Invalid");
+    break;
+}
